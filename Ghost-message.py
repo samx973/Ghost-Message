@@ -133,3 +133,4 @@ if __name__ == "__main__":
         
         s = StegoTool(key=k)
         s.reveal(p)
+        ##test
